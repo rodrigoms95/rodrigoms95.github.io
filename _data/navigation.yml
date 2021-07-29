@@ -2,8 +2,8 @@
 main:
   - title: "Home"
     url: /
-  - title: "Investigación"
-    url: /investigacion/
+  - title: "Académico"
+    url: /academico/
   - title: "Acerca de"
     url: /acerca_de/
   - title: "CV"
