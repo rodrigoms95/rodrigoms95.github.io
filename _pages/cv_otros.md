@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "CV - Otros"
-permalink: /cv/cv_otros/
+permalink: /curriculum/cv_otros/
 author_profile: true
 ---
 

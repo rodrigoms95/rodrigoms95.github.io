@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Formación Académica"
-permalink: /cv/formacion_academica/
+permalink: /curriculum/formacion_academica/
 author_profile: true
 ---
 
@@ -38,9 +38,9 @@ El diplomado incluye los siguientes módulos:
     * Marcos normativos para la generación de electricidad renovable
 
 * **Metodología y planificación energética**
-    * Evaluación de cobeneficios: Métodos y herramientas para identificar y comunicar las oportunidades sociales y económicaΓ de las energías renovables
+    * Evaluación de cobeneficios: Métodos y herramientas para identificar y comunicar las oportunidades sociales y económicas de las energías renovables
     * Planificación de sistemas eléctricos integrados considerando sus beneficios
-    * Curso de introducción: Integració de las energías renovables a la red eléctrica
+    * Curso de introducción: Integración de las energías renovables a la red eléctrica
 
 * **Economías sostenibles**
     * Efectos de la implementación de las energías renovables en el empleo - Generalidades
@@ -60,7 +60,7 @@ El diplomado incluye los siguientes módulos:
     * TELMEX de excelencia académica por la fundación Carlos Slim
     * PARA (Programa de Alto Rendimiento Académico)
     * Beca DGECI-UNAM de intercambio académico
-* **Tesis:** Infraestructura distribuida para el desarrollo de la resiliencia urbana de la Ciudad de México. [(pdf)](../assets/pdf/CV_Rodrigo_Munoz_Espanol_Abr21.pdf)
+* **Tesis:** Infraestructura distribuida para el desarrollo de la resiliencia urbana de la Ciudad de México. [(web)](http://132.248.9.195/ptd2019/enero/0784900/Index.html) [(pdf)](../../assets/pdf/Tesis_Licenciatura_Rodrigo_Munoz.pdf)
 
 
 ## Experiencia internacional

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Experiencia laboral"
-permalink: /cv/experiencia_laboral/
+permalink: /curriculum/experiencia_laboral/
 author_profile: true
 ---
 

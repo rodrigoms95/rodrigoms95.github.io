@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Formación Académica"
-permalink: /cv/formacion_academica/
+permalink: /curriculum/educacion_continua/
 author_profile: true
 ---
 
