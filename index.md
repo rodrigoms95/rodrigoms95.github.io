@@ -7,7 +7,7 @@ Bienvenido a mi página web. Aquí podrás encontrar información acerca de mi c
 
 ## Ligas
 - [Investigación y académico](./academico)
-- [Blog](./blog) [En Construcción!]
+- [Blog](./blog)
 - [Acerca de](./acerca_de)
 - [CV](./curriculum)
 - [Reduce Soluciones](./reduce)
