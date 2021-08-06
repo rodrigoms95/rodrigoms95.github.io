@@ -14,7 +14,7 @@ author_profile: true
 *CDMX, México*
 
 * **Asesor de tesis:** Dra. Paulina Ordóñez Pérez
-* **Tema de investigación:** Estudio de las sequías en la Cuenca del Valle de México utilizando el índice SPEI
+* **Tema de investigación:** Estudio de las sequías en la Cuenca del Valle de México utilizando el índice SPEI.
 
 
 ## Diplomado - Especialista en Cobeneficios de las Energías Renovables
@@ -60,7 +60,7 @@ El diplomado incluye los siguientes módulos:
     * TELMEX de excelencia académica por la fundación Carlos Slim
     * PARA (Programa de Alto Rendimiento Académico)
     * Beca DGECI-UNAM de intercambio académico
-* **Tesis:** Infraestructura distribuida para el desarrollo de la resiliencia urbana de la Ciudad de México. [(web)](http://132.248.9.195/ptd2019/enero/0784900/Index.html) [(pdf)](../../assets/pdf/Tesis_Licenciatura_Rodrigo_Munoz.pdf)
+* **Tesis:** Infraestructura distribuida para el desarrollo de la resiliencia urbana de la Ciudad de México. *Febrero 2019* [(web)](http://132.248.9.195/ptd2019/enero/0784900/Index.html) [(pdf)](../../assets/pdf/Tesis_Licenciatura_Rodrigo_Munoz.pdf)
 
 
 ## Experiencia internacional

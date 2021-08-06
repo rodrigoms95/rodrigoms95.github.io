@@ -16,7 +16,7 @@ author_profile: true
 Imparto la asignatura de Edificios sustentables para alumnos de licenciatura en la carrera de Ingeniería Civil.
 
 
-## REDUCE Soluciones (empresa de energías renovables)
+## [REDUCE Soluciones](../../reduce/) (empresa de energías renovables)
 
 **Socio Fundador, Director General, Director de Operaciones, Ingeniero de Proyectos**
 

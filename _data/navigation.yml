@@ -2,15 +2,17 @@
 main:
   - title: "Home"
     url: /
-  - title: "Académico"
-    url: /academico/
-  - title: "Acerca de"
-    url: /acerca_de/
-  - title: "CV"
-    url: /curriculum/
   - title: "Blog"
     url: /blog/
+  - title: "Académico"
+    url: /academico/
+  - title: "REDUCE Soluciones"
+    url: /reduce/
+  - title: "CV"
+    url: /curriculum/
   - title: "Edificios Sustentables"
     url: /edificios_sustentables/
+  - title: "Acerca de"
+    url: /acerca_de/
   - title: "English"
     url: https://rodrigoms95.github.io/eng/

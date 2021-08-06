@@ -13,4 +13,4 @@ Para descargar el CV en formato pdf haz clic [aquí](../assets/pdf/CV_Rodrigo_Mu
 * [Educación continua](./educacion_continua)
 * [Experiencia laboral](./experiencia_laboral)
 * [Académico](../academico)
-* [Otros](../cv_otros)
+* [Otros](./cv_otros)
