@@ -1,5 +1,6 @@
 # Documents to ignore
 *.code-workspace
+docs
 
 # Vim
 *~

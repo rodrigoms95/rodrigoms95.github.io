@@ -107,8 +107,8 @@ author:
   name             : *name_var
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : "CEO de REDUCE Soluciones, Profesor en la FI-UNAM.
-                      Energía solar, transición energética,
-                      edificios sustentables, desarrollo sostentible"
+                      Interesado en energía solar, transición energética,
+                      edificios sustentables, desarrollo sostentible."
   location         : "Ciudad de México, México"
   email            : "rodrigoms95@gmail.com"
   links:
@@ -266,6 +266,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
