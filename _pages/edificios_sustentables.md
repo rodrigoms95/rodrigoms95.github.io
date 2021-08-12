@@ -9,12 +9,14 @@ Bienvenido a la página web de la asignatura de Edificios Sustentables, optativa
 
 La asignatura tiene como objetivo introducir a los estudiantes al mundo de la sustentabilidad con un enfoque crítico y holístico para evitar caer en la trampa del *greenwashing*. Se ofrecerá una visión general de temas amplios y diversos, como ciudades sostenibles, resiliencia urbana, diseño bioclimático, envolvente térmica, control térmico natural, ventilación natural, iluminación natural, análisis de ciclo de vida, infraestructura verde, y certificaciones de edificios sustentables. A su vez, se explicará la conexión entre todos esto☼ temas para lograr un desarrollo integral. Con estas medidas se pretende reducir el impacto de las edificaciones y los asentamientos en su entorno.
 
+
 ## Temario del curso
 * Ciudades y sustentabilidad
 * Diseño bioclimático
 * Control higrotérmico e iluminación
 * Análisis de ciclo de vida en edificaciones
 * Infraestructura verde y sistemas naturados
+
 
 ## Bibliografía recomendada
 * Design with Climate, *Viktor Olgyay*
@@ -28,11 +30,15 @@ La asignatura tiene como objetivo introducir a los estudiantes al mundo de la su
 * Blue and Green Cities, *Robert C. Brears*
 * Green Roof Systems, *Weiler y Scholz-Barth*
 
+* La bibliografía utilizada y las fuentes consultadas específicamente para cada presentación de la clase se han omitido por cuestiones de espacio. Si estás interesado en esa información, contáctame y con gusto te la envío.
+
+
 ## Evaluación
 * **Tareas (Lecturas cortas para cada clase):** 25%
 * **Examenes breves semanales:** 25%
 * **Series de ejercicios por tema:** 25%
 * **Proyecto final:** 25%
+
 
 ## Vínculos importantes
 * [Temario oficial](../assets/pdf/Edificios_Sustentables_Temario.pdf)
