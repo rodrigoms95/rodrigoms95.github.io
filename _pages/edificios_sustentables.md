@@ -43,6 +43,5 @@ La asignatura tiene como objetivo introducir a los estudiantes al mundo de la su
 ## Vínculos importantes
 * [Temario oficial](../assets/pdf/Edificios_Sustentables_Temario.pdf)
 * [Canal de Youtube](https://www.youtube.com/channel/UC0rsINKAUsNsQWc-AG9LOMQ)
-* [Curso en línea (público).](https://classroom.google.com/c/MzY1NjQ2MTc2ODU0?cjc=42bbbfy) Código de la clase: 42bbbfy
-* [Curso en línea (FI - UNAM).](https://classroom.google.com/u/0/c/Mzg0MTI1ODU1NzUy) Para entrar a la plataforma, contacta al profesor.
+* [Curso en línea (público).](https://classroom.google.com/c/MzY1NjQ2MTc2ODU0?cjc=ys6ypnk)
 * [Resultados de la encuesta de retroalimentación de fin de curso](../404.md)
