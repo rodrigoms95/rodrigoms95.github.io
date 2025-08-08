@@ -1,12 +1,18 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Home"
+    url: /
+  - title: "Blog"
+    url: /blog/
+  - title: "Académico"
+    url: /academico/
+  - title: "REDUCE Soluciones"
+    url: /reduce/
+  - title: "CV"
+    url: /curriculum/
+  - title: "Edificios Sustentables"
+    url: /edificios_sustentables/
+  - title: "Acerca de"
+    url: /acerca_de/
+  - title: "English"
+    url: https://rodrigoms95.github.io/eng/
