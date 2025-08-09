@@ -15,11 +15,17 @@ date:               2025-04-08
 last_modified_at:   2025-08-08
 ---
 
+<style>
+img {
+    max-width: 200%;
+    max-height: 200%;
+}
+</style>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigoms95/rodrigoms95.github.io/master/assets/images/blog/2025_04_08-inundaciones_izcalli/Imagen_1.png" alt="Auto a medio sumergir en una calle inundada" height="10000"/>
+<p align="center" class="img">
+  <img src="https://raw.githubusercontent.com/rodrigoms95/rodrigoms95.github.io/master/assets/images/blog/2025_04_08-inundaciones_izcalli/Imagen_1.png" alt="Auto a medio sumergir en una calle inundada"/>
   <br>
-  Foto: ADN 4.
+  Foto: ADN
 </p>
 
 
@@ -37,7 +43,7 @@ La contundencia de este cambio debería ser un llamado de alerta para todos los 
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigoms95/rodrigoms95.github.io/master/assets/images/blog/2025_04_08-inundaciones_izcalli/Imagen_2.jpg" alt="Unas personas intentan desplazar a través de una calle inundada, en el fondo hay un camión de transporte público" height="600"/>
+  <img src="https://raw.githubusercontent.com/rodrigoms95/rodrigoms95.github.io/master/assets/images/blog/2025_04_08-inundaciones_izcalli/Imagen_2.jpg" alt="Unas personas intentan desplazar a través de una calle inundada, en el fondo hay un camión de transporte público"/>
   <br>
   Foto: Tribuna.
 </p>
