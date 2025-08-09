@@ -15,6 +15,21 @@ date:               2025-04-08
 last_modified_at:   2025-08-08
 ---
 
+<style>
+table th:first-of-type {
+    width: 10%;
+}
+table th:nth-of-type(2) {
+    width: 10%;
+}
+table th:nth-of-type(3) {
+    width: 50%;
+}
+table th:nth-of-type(4) {
+    width: 30%;
+}
+</style>
+
 Todos estamos familiarizados con la idea de que el cambio climático implica un aumento en la temperatura y, por consiguiente, olas de calor más intensas en verano.<!--more--> Sin embargo, en realidad se trata de cambios a escala planetaria, como la acidificación del océano, el derretimiento de los glaciares, y cambios en los patrones de precipitación.
 
 Una atmósfera más caliente puede almacenar más vapor de agua y por tanto se espera que la precipitación a nivel global aumente. Los impactos locales podrían ser muy variados debido a los cambiantes patrones de viento, con algunos lugares teniendo un incremento y otros una caída en la precipitación. Otro elemento importante que considerar es la duración en que se acumula la precipitación total: si tenemos una tormenta que dura 6 horas en las que se acumularon 12 mm, la intensidad de precipitación es de 2 mm/hora, y es probable que los sistemas de drenaje urbano sean capaces de evacuar adecuadamente las aguas pluviales. Por el contrario, si la lluvia es más fuerte, digamos que los mismos 12 milímetros cayeron en una tormenta que solo duró 2 horas, la intensidad de precipitación ahora es de 6 mm/hora y si el sistema de drenaje no fue diseñado para tal intensidad de precipitación, es posible que haya inundaciones.
@@ -27,7 +42,7 @@ Para dar un ejemplo, pensemos en Cuautitlán Izcalli. Es común que existan inun
 
 La contundencia de este cambio debería ser un llamado de alerta para todos los municipios ante la necesidad de los impactos que tendrá el cambio climático en su infraestructura y como diseñar sistemas de alcantarillado y otras obras que estén preparadas para las condiciones hidrológicas de los años futuros en que van a operar y no del presente.
 
-|![Un carro en medio de una inundación en Cuautitlán Izcalli](../assets/images/blog/2025_04_08-inundaciones_izcalli/Imagen_1.png)|
+|![Un carro en medio de una inundación en Cuautitlán Izcalli](https://github.com/rodrigoms95/rodrigoms95.github.io/blob/7dccfbb417fac6dbb3e31487cab3f380accab907/assets/images/blog/2025_04_08-inundaciones_izcalli/Imagen_1.png)|
 |:--:|
 |*Foto: ADN 40.*|
 
