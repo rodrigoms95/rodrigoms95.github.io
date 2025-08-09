@@ -42,7 +42,7 @@ Realizo consultorías sobre mitigación e impactos del cambio climático, así c
 * Asesor académico para los cursos de actualización de la NDC "Voces por el clima" por la asociación estudiantil SOEMA.
 
 
-# [REDUCE Soluciones](https://reducesoluciones.com/)(empresa de energías renovables)
+# [REDUCE Soluciones](https://reducesoluciones.com/) (empresa de energías renovables)
 
 **Socio Fundador, Director General, Director de Operaciones, Ingeniero de Proyectos**
 

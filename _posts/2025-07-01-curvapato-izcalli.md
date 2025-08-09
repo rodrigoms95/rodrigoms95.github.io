@@ -8,9 +8,6 @@ tags:
   - electricidad
   - energía fotovoltaica
 excerpt_separator: <!--more-->
-header:
-  teaser: https://raw.githubusercontent.com/rodrigoms95/rodrigoms95.github.io/master/assets/images/blog/2025-07-01-curvapato-izcalli/Imagen_1.jpg
-  header: https://raw.githubusercontent.com/rodrigoms95/rodrigoms95.github.io/master/assets/images/blog/2025-07-01-curvapato-izcalli/Imagen_1.jpg
 classes: wide
 date:               2025-05-07
 last_modified_at:   2025-05-07
