@@ -15,17 +15,11 @@ date:               2025-04-08
 last_modified_at:   2025-08-08
 ---
 
-<style>
-img {
-    max-width: 200%;
-    max-height: 200%;
-}
-</style>
 
-<p align="center" class="img">
-  <img src="https://raw.githubusercontent.com/rodrigoms95/rodrigoms95.github.io/master/assets/images/blog/2025_04_08-inundaciones_izcalli/Imagen_1.png" alt="Auto a medio sumergir en una calle inundada"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rodrigoms95/rodrigoms95.github.io/master/assets/images/blog/2025_04_08-inundaciones_izcalli/Imagen_1.png" alt="Auto a medio sumergir en una calle inundada" style='height: 200%; width: 200%; object-fit: contain'/>
   <br>
-  Foto: ADN
+  Foto: ADN 40.
 </p>
 
 
