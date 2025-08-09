@@ -58,15 +58,11 @@ Para descargar mi CV en formato pdf haz clic [aquí](../assets/pdf/CV_Rodrigo_Mu
 ## Conferencias impartidas
 * **Modelando los impactos de la geoingeniería en el Sur Global**. Instituto de Ciencias de la Atmósfera y Cambio Climático, UNAM. *CDMX, México. Febrero 2025*
 
-{% include video id="OJ8jA1V5sWw" provider="youtube" %}
-
-<iframe src="https://www.youtube.com/embed/OJ8jA1V5sWw" width="560" height="315" frameborder="0"> </iframe>
+<iframe style="display: block; margin: auto;" src="https://www.youtube.com/embed/OJ8jA1V5sWw" width="560" height="315" frameborder="0" allowfullscreen> </iframe>
 
 * **Resiliencia hidrológica e infraestructura verde, un nuevo enfoque desde la política pública**. Foro Potencial de la Infraestructura Verde, retos para un manejo sustentable los recursos hídricos en México. Senado de la República *CDMX, México. Diciembre 2023*.
 
-{% include video id="KYvB_gkmeaI?t=6731s" provider="youtube" %}
-
-<iframe src="https://www.youtube.com/embed/KYvB_gkmeaI?t=6731s" width="560" height="315" frameborder="0"> </iframe>
+<iframe style="display: block; margin: auto;" src="https://www.youtube.com/embed/KYvB_gkmeaI?si=IyAUHf_51CiRKt7T&amp;start=6731" width="560" height="315" frameborder="0" allowfullscreen> </iframe>
 
 * **Casas ecológicas con energía solar**. Día Mundial de la Sustentabilidad, Sanofi Aventis. *Ocoyoacac, Estado de Mexico. Junio 2019*.
 * Energía solar distribuida para el futuro sustentable en México. Expo EnVerdeSer. *CDMX, México. Noviembre 2018*.

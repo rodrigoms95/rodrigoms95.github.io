@@ -1,10 +1,11 @@
 ---
-title: "Bienvenida"
+title: "Lluvias extremas y cambio climático en Cuautitlán Izcalli"
 categories:
-  - General
+  - Periódico de Izcalli
 tags:
-  - contenido
-  - bienvenida
+  - cambio climático
+  - eventos extremos
+  - precipitación
 excerpt_separator: <!--more-->
 ---
 

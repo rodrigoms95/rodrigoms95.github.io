@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : *name_var
-  avatar           : "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpeg"
   bio              : "Doctorante en Ciencias de la Tierra. Trabajo en impactos socioeconómicos del cambio climático, transición energética justa, y uso de modelos de evaluación integrada para trayectorias de descarbonización de la economía."
   location         : "Ciudad de México, México"
   email            : "rodrigoms95@gmail.com"
