@@ -3,7 +3,6 @@ layout: single
 title: "Experiencia profesional"
 permalink: /experiencia_profesional/
 author_profile: true
-classes: wide
 toc: true
 toc_sticky: false
 ---
