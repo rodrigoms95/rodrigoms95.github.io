@@ -15,9 +15,10 @@ date:               2025-04-08
 last_modified_at:   2025-08-08
 ---
 
-|![Un carro en medio de una inundación en Cuautitlán Izcalli](https://raw.githubusercontent.com/rodrigoms95/rodrigoms95.github.io/master/assets/images/blog/2025_04_08-inundaciones_izcalli/Imagen_1.png)|
-|:--:|
-|*Foto: ADN 40.*|
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rodrigoms95/rodrigoms95.github.io/master/assets/images/blog/2025_04_08-inundaciones_izcalli/Imagen_1.png" alt="Sublime's custom image"/>
+  |*Foto: ADN 40.*
+</p>
 
 
 Todos estamos familiarizados con la idea de que el cambio climático implica un aumento en la temperatura y, por consiguiente, olas de calor más intensas en verano.<!--more--> Sin embargo, en realidad se trata de cambios a escala planetaria, como la acidificación del océano, el derretimiento de los glaciares, y cambios en los patrones de precipitación.
