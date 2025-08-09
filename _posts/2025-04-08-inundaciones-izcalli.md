@@ -15,9 +15,12 @@ date:               2025-04-08
 last_modified_at:   2025-08-08
 ---
 
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigoms95/rodrigoms95.github.io/master/assets/images/blog/2025_04_08-inundaciones_izcalli/Imagen_1.png" alt="Sublime's custom image"/>
-  |*Foto: ADN 40.*
+  <img src="https://raw.githubusercontent.com/rodrigoms95/rodrigoms95.github.io/master/assets/images/blog/2025_04_08-inundaciones_izcalli/Imagen_1.png" alt="Auto a medio sumergir en una calle inundada"/>
+</p>
+<p align="center">
+  *Foto: ADN 40.*
 </p>
 
 
@@ -34,9 +37,12 @@ Para dar un ejemplo, pensemos en Cuautitlán Izcalli. Es común que existan inun
 La contundencia de este cambio debería ser un llamado de alerta para todos los municipios ante la necesidad de los impactos que tendrá el cambio climático en su infraestructura y como diseñar sistemas de alcantarillado y otras obras que estén preparadas para las condiciones hidrológicas de los años futuros en que van a operar y no del presente.
 
 
-|![Unas personas intentan desplazar a través de una calle inundada, en el fondo hay un camión de transporte público](https://raw.githubusercontent.com/rodrigoms95/rodrigoms95.github.io/master/assets/images/blog/2025_04_08-inundaciones_izcalli/Imagen_2.jpg)|
-|:--:|
-|*Foto: Tribuna.*|
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rodrigoms95/rodrigoms95.github.io/master/assets/images/blog/2025_04_08-inundaciones_izcalli/Imagen_2.jpg" alt="Unas personas intentan desplazar a través de una calle inundada, en el fondo hay un camión de transporte público"/>
+</p>
+<p align="center">
+  |*Foto: Tribuna.*
+</p>
 
 
 Artículo públicado originalmente en el [Periódico de Izcalli](https://periodicodeizcalli.com/2025/04/08/columna-lluvias-extremas-y-cambio-climatico-en-cuautitlan-izcalli/)
