@@ -9,12 +9,12 @@ tags:
   - energía fotovoltaica
 excerpt_separator: <!--more-->
 classes: wide
-date:               2025-05-07
-last_modified_at:   2025-05-07
+date:               2025-07-01
+last_modified_at:   2025-07-01
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigoms95/rodrigoms95.github.io/master/assets/images/blog/2025-07-01-curvapato-izcalli/Imagen_1.jpg" alt="Central solar de Puerto Peñasco" style='height: 150%; width: 150%; object-fit: contain'/>
+  <img src="https://raw.githubusercontent.com/rodrigoms95/rodrigoms95.github.io/master/assets/images/blog/2025-07-01-curvapato-izcalli/Imagen_1.png" alt="Central solar de Puerto Peñasco" style='height: 150%; width: 150%; object-fit: contain'/>
   <br>
   La central solar en Puerto Peñasco tiene sistemas de baterías para una mejor integración a la red eléctrica.
   <br>
