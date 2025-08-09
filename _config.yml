@@ -106,9 +106,11 @@ analytics:
 author:
   name             : *name_var
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "CEO de REDUCE Soluciones, Profesor en la FI-UNAM.
-                      Interesado en energía solar, transición energética,
-                      edificios sustentables, desarrollo sostentible."
+  bio              : "Doctorante en Ciencias de la Tierra. Trabajo en
+                      impactos socioeconómicos del cambio climático,
+                      transición energética justa, y uso de modelos de
+                      evaluación integrada para trayectorias de
+                      descarbonización de la economía."
   location         : "Ciudad de México, México"
   email            : "rodrigoms95@gmail.com"
   links:
@@ -122,7 +124,10 @@ author:
       icon: "https://github.com/rodrigoms95"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://instagram.com/rodrigoms95"
+    - label: "Bluesky"
+      icon: "fab fa-brands fa-bluesky"
+      url: "https://bsky.app/profile/rodrigo-munoz.bsky.social"
 
 # Site Footer
 footer:
@@ -130,9 +135,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/rodrigoms95"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+    - label: "Bluesky"
+      icon: "fab fa-brands fa-bluesky"
+      url: "https://bsky.app/profile/rodrigo-munoz.bsky.social"
   since: "2021"
 
 
