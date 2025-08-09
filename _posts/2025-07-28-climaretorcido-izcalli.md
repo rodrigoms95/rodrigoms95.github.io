@@ -6,6 +6,10 @@ tags:
   - cambio climático
   - filosofía ambiental
 excerpt_separator: <!--more-->
+header:
+  header: /assets/images/blog/2025-07-28-climaretorcido-izcalli/Imagen_1.jpg
+  teaser: /assets/images/blog/2025-07-28-climaretorcido-izcalli/Imagen_1.jpg
+  og_image: /assets/images/blog/2025-07-28-climaretorcido-izcalli/Imagen_1.jpg
 classes: wide
 date:               2025-07-28
 last_modified_at:   2025-07-28

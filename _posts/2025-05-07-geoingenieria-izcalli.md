@@ -6,6 +6,10 @@ tags:
   - cambio climático
   - geoingeniería
 excerpt_separator: <!--more-->
+header:
+  header: /assets/images/blog/2025-05-07-geoingenieria-izcalli/Imagen_1.png
+  teaser: /assets/images/blog/2025-05-07-geoingenieria-izcalli/Imagen_1.png
+  og_image: /assets/images/blog/2025-05-07-geoingenieria-izcalli/Imagen_1.png
 classes: wide
 date:               2025-05-07
 last_modified_at:   2025-05-07

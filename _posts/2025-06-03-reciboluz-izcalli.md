@@ -7,6 +7,10 @@ tags:
   - energía
   - electricidad
 excerpt_separator: <!--more-->
+header:
+  header: /assets/images/blog/2025-06-03-reciboluz-izcalli/Imagen_1.jpg
+  teaser: /assets/images/blog/2025-06-03-reciboluz-izcalli/Imagen_1.jpg
+  og_image: /assets/images/blog/2025-06-03-reciboluz-izcalli/Imagen_1.jpg
 classes: wide
 date:               2025-06-03
 last_modified_at:   2025-06-03

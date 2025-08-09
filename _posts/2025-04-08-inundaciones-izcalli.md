@@ -7,6 +7,10 @@ tags:
   - eventos extremos
   - precipitación
 excerpt_separator: <!--more-->
+header:
+  header: /assets/images/blog/2025_04_08-inundaciones_izcalli/Imagen_1.png
+  teaser: /assets/images/blog/2025_04_08-inundaciones_izcalli/Imagen_1.png
+  og_image: /assets/images/blog/2025_04_08-inundaciones_izcalli/Imagen_1.png
 classes: wide
 date:               2025-04-08
 last_modified_at:   2025-08-08
