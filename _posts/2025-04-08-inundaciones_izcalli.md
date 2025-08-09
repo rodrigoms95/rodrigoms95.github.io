@@ -9,6 +9,7 @@ tags:
 excerpt_separator: <!--more-->
 header:
   teaser: ../assets/images/blog/2025_04_08-inundaciones_izcalli/Imagen_1.png
+classes: wide
 ---
 
 Todos estamos familiarizados con la idea de que el cambio climático implica un aumento en la temperatura y, por consiguiente, olas de calor más intensas en verano. Sin embargo, en realidad se trata de cambios a escala planetaria, como la acidificación del océano, el derretimiento de los glaciares, y cambios en los patrones de precipitación.<!--more-->

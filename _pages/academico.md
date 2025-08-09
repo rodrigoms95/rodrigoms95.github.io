@@ -3,6 +3,7 @@ title: "Académico"
 permalink: /academico/
 layout: single
 author_profile: true
+toc: true
 ---
 
 Aquí podrás encontrar una resumen de mi actividad académica.

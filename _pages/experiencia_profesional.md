@@ -1,8 +1,10 @@
 ---
 layout: single
 title: "Experiencia profesionall"
-permalink: /curriculum/experiencia_profesional/
+permalink: /experiencia_profesional/
 author_profile: true
+classes: wide
+
 ---
 
 Para descargar mi CV en formato pdf haz clic [aquí](../assets/pdf/CV_Rodrigo_Munoz_extenso_2025-01.pdf).
