@@ -8,20 +8,18 @@ tags:
   - precipitación
 excerpt_separator: <!--more-->
 header:
-  teaser: ../assets/images/blog/2025_04_08-inundaciones_izcalli/Imagen_1.png
-  header: ../assets/images/blog/2025_04_08-inundaciones_izcalli/Imagen_1.png
+  teaser: https://raw.githubusercontent.com/rodrigoms95/rodrigoms95.github.io/master/assets/images/blog/2025_04_08-inundaciones_izcalli/Imagen_1.png
+  header: https://raw.githubusercontent.com/rodrigoms95/rodrigoms95.github.io/master/assets/images/blog/2025_04_08-inundaciones_izcalli/Imagen_1.png
 classes: wide
 date:               2025-04-08
 last_modified_at:   2025-08-08
 ---
-
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/rodrigoms95/rodrigoms95.github.io/master/assets/images/blog/2025_04_08-inundaciones_izcalli/Imagen_1.png" alt="Auto a medio sumergir en una calle inundada" style='height: 150%; width: 150%; object-fit: contain'/>
   <br>
   Foto: ADN 40.
 </p>
-
 
 Todos estamos familiarizados con la idea de que el cambio climático implica un aumento en la temperatura y, por consiguiente, olas de calor más intensas en verano.<!--more--> Sin embargo, en realidad se trata de cambios a escala planetaria, como la acidificación del océano, el derretimiento de los glaciares, y cambios en los patrones de precipitación.
 
@@ -34,7 +32,6 @@ Al fenómeno de cambio climático global hay que sumarle el cambio climático lo
 Para dar un ejemplo, pensemos en Cuautitlán Izcalli. Es común que existan inundaciones en la zona aledaña a la carretera México-Querétaro, debido a que el río Cuautitlán cruza la carretera y lleva el agua que llueve desde Tlazala y Jilotzingo. Toda esa región podría experimentar un incremento de 10 a 20% en la precipitación acumulada para 2050. Las indicaciones de Conagua y la SICT indican que el drenaje de la zona debe diseñarse para una tormenta de alrededor de unos 20 mm/hora que podrían ser excedidos aproximadamente cada 10 años. Sin embargo, para 2050 se espera que esa tormenta de diseño tenga un 100% de probabilidad de suceder todos los años. Esto significa que las más grandes inundaciones que antes veíamos cada 10 años van a ser algo cotidiano en el futuro cercano debido al cambio climático.
 
 La contundencia de este cambio debería ser un llamado de alerta para todos los municipios ante la necesidad de los impactos que tendrá el cambio climático en su infraestructura y como diseñar sistemas de alcantarillado y otras obras que estén preparadas para las condiciones hidrológicas de los años futuros en que van a operar y no del presente.
-
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/rodrigoms95/rodrigoms95.github.io/master/assets/images/blog/2025_04_08-inundaciones_izcalli/Imagen_2.jpg" alt="Unas personas intentan desplazar a través de una calle inundada, en el fondo hay un camión de transporte público" style='height: 150%; width: 150%; object-fit: contain'/>

@@ -77,3 +77,5 @@ Para descargar mi CV en formato pdf haz clic [aquí](../assets/pdf/CV_Rodrigo_Mu
 * **La crisis climática y sus soluciones**. Club Rotaract Reforma. *CDMX, México. Junio 2018*.
 * **La importancia de la ubicación en los proyectos fotovoltaicos**. Expo EnVerdeSer. *CDMX, México. Noviembre 2016*.
 
+# Participación en congresos
+* **Muñoz-Sanchez, R.**, Ordoñez, P., Gallego, D., & Ochoa-Moya, C. A. (2023). An Objective Index for Monsoon Onset and Withdrawal Dates Over the Mexico Valley Basin. 103rd Annual AMS Meeting 2023. [Abstract](https://ams.confex.com/ams/103ANNUAL/meetingapp.cgi/Paper/419268)
