@@ -26,7 +26,7 @@ Los impactos del cambio climático en la economía de nuestros hogares serán co
 Para entender el origen de este problema, hay que considerar que la familia promedio en México utiliza 30% de la energía eléctrica para hacer más confortable su casa cuando hace calor, ya sea con ventiladores o con aires acondicionados. Sin embargo, hay una importante variación a lo largo del país: **en el centro apenas se utiliza el 3% para enfriamiento, en el sur se utiliza el 30% y en el norte llega a representar hasta el 53% del recibo de CFE de los hogares**.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigoms95/rodrigoms95.github.io/master/assets/images/blog/2025-06-03-reciboluz-izcalli/Imagen_2.png" alt="Un termómetro y una persona con calor" style='height: 150%; width: 150%; object-fit: contain'/>
+  <img src="https://raw.githubusercontent.com/rodrigoms95/rodrigoms95.github.io/master/assets/images/blog/2025-06-03-reciboluz-izcalli/Imagen_2.png" alt="Gráfica de barras: en el centro apenas se utiliza el 3% para enfriamiento, en el sur se utiliza el 30% y en el norte llega a representar hasta el 53% del recibo de CFE de los hogares" style='height: 100%; width: 100%; object-fit: contain'/>
   <br>
   Gráfica de % de costo de aire acondicionado/climas para las regiones de México
   <br>
