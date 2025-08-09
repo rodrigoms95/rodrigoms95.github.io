@@ -42,10 +42,15 @@ Para dar un ejemplo, pensemos en Cuautitlán Izcalli. Es común que existan inun
 
 La contundencia de este cambio debería ser un llamado de alerta para todos los municipios ante la necesidad de los impactos que tendrá el cambio climático en su infraestructura y como diseñar sistemas de alcantarillado y otras obras que estén preparadas para las condiciones hidrológicas de los años futuros en que van a operar y no del presente.
 
-|![Un carro en medio de una inundación en Cuautitlán Izcalli](https://github.com/rodrigoms95/rodrigoms95.github.io/blob/7dccfbb417fac6dbb3e31487cab3f380accab907/assets/images/blog/2025_04_08-inundaciones_izcalli/Imagen_1.png)|
+
+|![Un carro en medio de una inundación en Cuautitlán Izcalli](https://raw.githubusercontent.com/rodrigoms95/rodrigoms95.github.io/master/assets/images/blog/2025_04_08-inundaciones_izcalli/Imagen_1.png)|
 |:--:|
 |*Foto: ADN 40.*|
 
-{% include figure popup=true image_path="../assets/images/blog/2025_04_08-inundaciones_izcalli/Imagen_2.jpg" alt="Foto: Tribuna" caption="Foto: Tribuna." %}
+
+|![Unas personas intentan desplazar a través de una calle inundada, en el fondo hay un camión de transporte público](https://raw.githubusercontent.com/rodrigoms95/rodrigoms95.github.io/master/assets/images/blog/2025_04_08-inundaciones_izcalli/Imagen_2.png)|
+|:--:|
+|*Foto: Tribuna.*|
+
 
 Artículo públicado originalmente en el [Periódico de Izcalli](https://periodicodeizcalli.com/2025/04/08/columna-lluvias-extremas-y-cambio-climatico-en-cuautitlan-izcalli/)
