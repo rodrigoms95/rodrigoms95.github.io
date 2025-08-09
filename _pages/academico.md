@@ -31,11 +31,13 @@ Para descargar mi CV en formato pdf haz clic [aquí](../assets/pdf/CV_Rodrigo_Mu
 
 
 # Tesis realizadas
+
 * **Licenciatura:** Infraestructura distribuida para el desarrollo de la resiliencia urbana de la Ciudad de México. Asesor: M.I. Rodrigo Sepúlveda. *Febrero 2019* [(web)](http://132.248.9.195/ptd2019/enero/0784900/Index.html) [(pdf)](../assets/pdf/Tesis_Licenciatura_Rodrigo_Munoz.pdf)
 * **Maestría:** Definición de un índice objetivo para el cálculo del inicio y fin de la temporada de lluvias en la Cuenca del Valle de México. Asesora: Dra. Paulina Ordóñez.*Octubre 2023* [(web)](https://tesiunamdocumentos.dgb.unam.mx/ptd2023/septiembre/0846996/Index.html) [(pdf)](../assets/pdf/Tesis_Maestria_Rodrigo_Munoz.pdf)
 
 
 # Participación en proyectos
+
 * **Fortalecimiento de capacidades para la toma de decisiones en cambio climático y actualización de la NDC**. Modelador de trayectorias de descarbonización. Entidades participantes: SEMARNAT, INECC, PINCC-UNAM, ICAyCC-UNAM, OSF. *Diciembre 2025 - Actual*
 * **Reporte de Transiciones Climáticas de la UNESCO** Modelador de índices de exposición y vulnerabilidad y evaluador de políticas. Entidades participantes: UNESCO. *Junio 2024 - Julio 2025*.
 * **Agencia Energética de Jóvenes Expertos de BRICS**. Experto senior en cambio climático y negocios energéticos. Entidades participantes: BRICS Youth Energy Agency. *Junio 2024 - Octubre 2024*
@@ -44,6 +46,7 @@ Para descargar mi CV en formato pdf haz clic [aquí](../assets/pdf/CV_Rodrigo_Mu
 
 
 # Cursos impartidos
+
 * *Posgrado*
     * **Proyectos fotovoltaicos**. Curso de la Especialidad en Ingeniería Sanitaria y Ambiental. Facultad de Ingeniería, UNAM. *Agosto 2024 - Diciembre 2024*.
     * **Proyectos de infraestructura verde**. Curso de la Especialidad en Ingeniería Sanitaria y Ambiental. Facultad de Ingeniería, UNAM. *Enero 2025 - Julio 2025*.
@@ -58,6 +61,7 @@ Para descargar mi CV en formato pdf haz clic [aquí](../assets/pdf/CV_Rodrigo_Mu
 
 
 # Conferencias impartidas
+
 * **¿Quién asume los costos del cambio climático?** En conjunto con el Dr. Rodolfo Lacy y la Mtra. Mildred Castro. XLII FIL IPN 2025. *CDMX, Julio 2025*.
 
 <iframe style="display: block; margin: auto;" src="https://www.youtube.com/embed/QKeAx3MRDVE" width="560" height="315" frameborder="0" allowfullscreen> </iframe>
@@ -78,4 +82,5 @@ Para descargar mi CV en formato pdf haz clic [aquí](../assets/pdf/CV_Rodrigo_Mu
 * **La importancia de la ubicación en los proyectos fotovoltaicos**. Expo EnVerdeSer. *CDMX, México. Noviembre 2016*.
 
 # Participación en congresos
+
 * **Muñoz-Sanchez, R.**, Ordoñez, P., Gallego, D., & Ochoa-Moya, C. A. (2023). An Objective Index for Monsoon Onset and Withdrawal Dates Over the Mexico Valley Basin. 103rd Annual AMS Meeting 2023. [Abstract](https://ams.confex.com/ams/103ANNUAL/meetingapp.cgi/Paper/419268)
