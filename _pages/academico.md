@@ -4,6 +4,7 @@ permalink: /academico/
 layout: single
 author_profile: true
 toc: true
+toc_sticky: false
 ---
 
 Aquí podrás encontrar una resumen de mi actividad académica.
