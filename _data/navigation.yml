@@ -6,12 +6,8 @@ main:
     url: /blog/
   - title: "Académico"
     url: /academico/
-  - title: "REDUCE Soluciones"
-    url: /reduce/
-  - title: "CV"
-    url: /curriculum/
-  - title: "Edificios Sustentables"
-    url: /edificios_sustentables/
+  - title: "Experiencia Profesional"
+    url: /experiencia_profesional/
   - title: "Acerca de"
     url: /acerca_de/
   - title: "English"
