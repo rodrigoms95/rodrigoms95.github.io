@@ -6,6 +6,7 @@ tags:
   - contenido
   - bienvenida
 excerpt_separator: <!--more-->
+classes: wide
 date:               2021-08-06
 last_modified_at:   2021-08-06
 ---

@@ -9,8 +9,7 @@ Bienvenido a mi página web. Aquí podrás encontrar información acerca de mi t
 - [Investigación y académico](./academico)
 - [Blog](./blog)
 - [Acerca de](./acerca_de)
-- [Experiencia profesional](./curriculum)
-- [Reduce Soluciones](./experiencia_profesional)
+- [Experiencia profesional](./experiencia_profesional)
 
 ## Contacto
 - [ResearchGate](https://www.researchgate.net/profile/Rodrigo-Munoz-Sanchez)

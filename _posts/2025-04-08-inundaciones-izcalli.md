@@ -14,7 +14,7 @@ date:               2025-04-08
 last_modified_at:   2025-08-08
 ---
 
-Todos estamos familiarizados con la idea de que el cambio climático implica un aumento en la temperatura y, por consiguiente, olas de calor más intensas en verano. Sin embargo, en realidad se trata de cambios a escala planetaria, como la acidificación del océano, el derretimiento de los glaciares, y cambios en los patrones de precipitación.<!--more-->
+Todos estamos familiarizados con la idea de que el cambio climático implica un aumento en la temperatura y, por consiguiente, olas de calor más intensas en verano.<!--more--> Sin embargo, en realidad se trata de cambios a escala planetaria, como la acidificación del océano, el derretimiento de los glaciares, y cambios en los patrones de precipitación.
 
 Una atmósfera más caliente puede almacenar más vapor de agua y por tanto se espera que la precipitación a nivel global aumente. Los impactos locales podrían ser muy variados debido a los cambiantes patrones de viento, con algunos lugares teniendo un incremento y otros una caída en la precipitación. Otro elemento importante que considerar es la duración en que se acumula la precipitación total: si tenemos una tormenta que dura 6 horas en las que se acumularon 12 mm, la intensidad de precipitación es de 2 mm/hora, y es probable que los sistemas de drenaje urbano sean capaces de evacuar adecuadamente las aguas pluviales. Por el contrario, si la lluvia es más fuerte, digamos que los mismos 12 milímetros cayeron en una tormenta que solo duró 2 horas, la intensidad de precipitación ahora es de 6 mm/hora y si el sistema de drenaje no fue diseñado para tal intensidad de precipitación, es posible que haya inundaciones.
 
