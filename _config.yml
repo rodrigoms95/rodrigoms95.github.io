@@ -23,7 +23,7 @@ title                    : "Rodrigo Muñoz: Sitio personal"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : *name_var
-description              : "Aquí podrás encontrar información acerca de mi currículum y mis proyectos académicos y laborales."
+description              : "Aquí podrás encontrar información acerca de mi trabajo académico y profesional."
 url                      : "https://rodrigoms95.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "rodrigoms95/rodrigoms95"

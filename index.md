@@ -7,7 +7,7 @@ Bienvenido a mi página web. Aquí podrás encontrar información acerca de mi t
 
 ## Ligas
 - [Investigación y académico](./academico)
-- [Blog](./blog)
+- [Blog](./blog_fechas)
 - [Acerca de](./acerca_de)
 - [Experiencia profesional](./experiencia_profesional)
 
