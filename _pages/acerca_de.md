@@ -15,5 +15,5 @@ Me llamo Rodrigo Muñoz Sánchez y soy mexicano, oriundo de la Ciudad de México
 * **Montañismo:** Me gusta la escalada y el alpinismo. El parque nacional Izta-Popo es de mis lugares favoritos.
 * **Música:** Tengo gustos bastante eclécticos, pero en general me gusta el rock clásico y el indie. Toco guitarra clásica.
 * **Fotografía:** Hago fotografía digital y analógica. Mis temas preferidos son paisajes, naturaleza, y animales.
-* **Leer:** Leo principalmente novelas; soy fanático de autores ibeoamericanos como Cortázar y Saramago. Me intere☼a leer libros de autores de diversas partes del mundo para aprender sobre diferentes culturas y últimamente he leído a varios premios Nobel como Kenzaburo Oe, Herta Muller, y Orhan Pamuk.
+* **Leer:** Leo principalmente novelas; soy fanático de autores ibeoamericanos como Cortázar y Saramago. Me interesa leer libros de autores de diversas partes del mundo para aprender sobre diferentes culturas; últimamente he leído a varios premios Nobel como Kenzaburo Oe, Herta Muller, y Orhan Pamuk.
 * **Idiomas:** Me apasiona aprender nuevos idiomas. Actualmente hablo español, inglés, francés, y estoy en proceso de aprender chino mandarín, alemán y portugués.
