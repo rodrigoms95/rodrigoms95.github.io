@@ -15,20 +15,10 @@ date:               2025-04-08
 last_modified_at:   2025-08-08
 ---
 
-<style>
-table th:first-of-type {
-    width: 10%;
-}
-table th:nth-of-type(2) {
-    width: 10%;
-}
-table th:nth-of-type(3) {
-    width: 50%;
-}
-table th:nth-of-type(4) {
-    width: 30%;
-}
-</style>
+|![Un carro en medio de una inundación en Cuautitlán Izcalli](https://raw.githubusercontent.com/rodrigoms95/rodrigoms95.github.io/master/assets/images/blog/2025_04_08-inundaciones_izcalli/Imagen_1.png)|
+|:--:|
+|*Foto: ADN 40.*|
+
 
 Todos estamos familiarizados con la idea de que el cambio climático implica un aumento en la temperatura y, por consiguiente, olas de calor más intensas en verano.<!--more--> Sin embargo, en realidad se trata de cambios a escala planetaria, como la acidificación del océano, el derretimiento de los glaciares, y cambios en los patrones de precipitación.
 
@@ -43,12 +33,7 @@ Para dar un ejemplo, pensemos en Cuautitlán Izcalli. Es común que existan inun
 La contundencia de este cambio debería ser un llamado de alerta para todos los municipios ante la necesidad de los impactos que tendrá el cambio climático en su infraestructura y como diseñar sistemas de alcantarillado y otras obras que estén preparadas para las condiciones hidrológicas de los años futuros en que van a operar y no del presente.
 
 
-|![Un carro en medio de una inundación en Cuautitlán Izcalli](https://raw.githubusercontent.com/rodrigoms95/rodrigoms95.github.io/master/assets/images/blog/2025_04_08-inundaciones_izcalli/Imagen_1.png)|
-|:--:|
-|*Foto: ADN 40.*|
-
-
-|![Unas personas intentan desplazar a través de una calle inundada, en el fondo hay un camión de transporte público](https://raw.githubusercontent.com/rodrigoms95/rodrigoms95.github.io/master/assets/images/blog/2025_04_08-inundaciones_izcalli/Imagen_2.png)|
+|![Unas personas intentan desplazar a través de una calle inundada, en el fondo hay un camión de transporte público](https://raw.githubusercontent.com/rodrigoms95/rodrigoms95.github.io/master/assets/images/blog/2025_04_08-inundaciones_izcalli/Imagen_2.jpg)|
 |:--:|
 |*Foto: Tribuna.*|
 
