@@ -7,6 +7,8 @@ tags:
   - eventos extremos
   - precipitación
 excerpt_separator: <!--more-->
+header:
+  teaser: ../assets/images/blog/2025_04_08-inundaciones_izcalli/Imagen_1.png
 ---
 
 Todos estamos familiarizados con la idea de que el cambio climático implica un aumento en la temperatura y, por consiguiente, olas de calor más intensas en verano. Sin embargo, en realidad se trata de cambios a escala planetaria, como la acidificación del océano, el derretimiento de los glaciares, y cambios en los patrones de precipitación.<!--more-->
@@ -21,8 +23,8 @@ Para dar un ejemplo, pensemos en Cuautitlán Izcalli. Es común que existan inun
 
 La contundencia de este cambio debería ser un llamado de alerta para todos los municipios ante la necesidad de los impactos que tendrá el cambio climático en su infraestructura y como diseñar sistemas de alcantarillado y otras obras que estén preparadas para las condiciones hidrológicas de los años futuros en que van a operar y no del presente.
 
-![image-center](../assets/images/blog/2025_04_08-inundaciones_izcalli/Imagen_1.png){: .align-center}
+![image-center](../assets/images/blog/2025_04_08-inundaciones_izcalli/Imagen_1.png "Foto: ADN 40")Foto: ADN 40{: .align-center}
 
-![image-center](../assets/images/blog/2025_04_08-inundaciones_izcalli/Imagen_2.png){: .align-center}
+![image-center](../assets/images/blog/2025_04_08-inundaciones_izcalli/Imagen_2.png "Foto: Tribuna")Foto: Tribuna{: .align-center}
 
 Artículo públicado originalmente en el [Periódico de Izcalli](https://periodicodeizcalli.com/2025/04/08/columna-lluvias-extremas-y-cambio-climatico-en-cuautitlan-izcalli/)

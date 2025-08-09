@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: "Acerca de"
 permalink: /acerca_de/
 author_profile: true

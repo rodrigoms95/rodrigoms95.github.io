@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: "Experiencia profesionall"
 permalink: /curriculum/experiencia_profesional/
 author_profile: true

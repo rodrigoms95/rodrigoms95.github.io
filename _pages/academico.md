@@ -1,7 +1,7 @@
 ---
 title: "Académico"
 permalink: /academico/
-layout: page
+layout: single
 author_profile: true
 ---
 
@@ -56,7 +56,11 @@ Para descargar mi CV en formato pdf haz clic [aquí](../assets/pdf/CV_Rodrigo_Mu
 
 
 ## Conferencias impartidas
-* **Modelando los impactos de la geoingeniería en el Sur Global**. Instituto de Ciencias de la Atmósfera y Cambio Climático, UNAM. *CDMX, México. Febrero 2025*
+* **¿Quién asume los costos?** En conjunto con el Dr. Rodolfo Lacy y la Mtra. Mildred Castro. XLII FIL IPN 2025. *CDMX, Julio 2025*.
+
+<iframe style="display: block; margin: auto;" src="https://www.youtube.com/embed/QKeAx3MRDVE" width="560" height="315" frameborder="0" allowfullscreen> </iframe>
+
+* **Modelando los impactos de la geoingeniería en el Sur Global**. Instituto de Ciencias de la Atmósfera y Cambio Climático, UNAM. *CDMX, México. Febrero 2025*.
 
 <iframe style="display: block; margin: auto;" src="https://www.youtube.com/embed/OJ8jA1V5sWw" width="560" height="315" frameborder="0" allowfullscreen> </iframe>
 
