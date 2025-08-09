@@ -17,9 +17,9 @@ last_modified_at:   2025-08-08
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigoms95/rodrigoms95.github.io/master/assets/images/blog/2025_04_08-inundaciones_izcalli/Imagen_1.png" alt="Auto a medio sumergir en una calle inundada" height="2000"/>
+  <img src="https://raw.githubusercontent.com/rodrigoms95/rodrigoms95.github.io/master/assets/images/blog/2025_04_08-inundaciones_izcalli/Imagen_1.png" alt="Auto a medio sumergir en una calle inundada" height="10000"/>
   <br>
-  Foto: ADN 40.
+  Foto: ADN 4.
 </p>
 
 
