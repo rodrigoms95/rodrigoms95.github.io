@@ -45,4 +45,4 @@ Esta serie de contradicciones fundamentales nos permiten vislumbrar las vueltas 
 ¿Qué hacer ante esta espada de Damocles que se esconde detrás de cada desayuno, de cada prenda? En realidad, las ranas no hierven en la olla, un mecanismo esencial de la termorregulación es el desplazamiento hacia mejores condiciones. Muchos humanos somos como las ranas y estamos nadando contracorriente en lucha de frescos bosques y cascadas prístinas. Somos la mayoría, más del 80% quiere mayor acción climática según la ONU, y las soluciones ya están aquí, al alcance de nuestras manos. Solo juntos podemos exigir y lograr el cambio, aunque esa minoría nos quiera hacer pensar que es imposible y estamos locos. Pero ya lo dijo Steve Jobs: “Las personas que están lo suficientemente locas como para creer que pueden cambiar el mundo son las que lo hacen”.
 
 
-Artículo públicado originalmente en el Periódico de Izcalli
+*Artículo públicado originalmente en el Periódico de Izcalli*

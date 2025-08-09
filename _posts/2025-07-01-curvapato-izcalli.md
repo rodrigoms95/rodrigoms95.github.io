@@ -48,4 +48,4 @@ No obstante, esta característica de las energías renovables no debe ser tomada
 Además, existen países cuya red eléctrica tiene ya características que permiten que le afecte menos la curva de pato al tener más flexibilidad. Algunas características importantes que dan flexibilidad a las redes eléctricas son una amplia presencia de centrales hidroeléctricas y de turbogás, que pueden prenderse y apagarse muy rápidamente para cubrir con las demandas de la curva de pato. En este sentido México tiene una amplia flexibilidad y todavía un porcentaje muy bajo de energías renovables, y todavía tenemos la posibilidad de aumentar más de 10 veces la energía renovable que generamos antes de encontrarnos con cualquier problema, por lo que es urgente que nuestro país empiece a actuar para evitar los peores efectos del cambio climático.
 
 
-Artículo públicado originalmente en el [Periódico de Izcalli](https://periodicodeizcalli.com/2025/07/01/la-curva-de-pato-el-reto-de-la-energia-solar/)
+*Artículo públicado originalmente en el [Periódico de Izcalli](https://periodicodeizcalli.com/2025/07/01/la-curva-de-pato-el-reto-de-la-energia-solar/)*

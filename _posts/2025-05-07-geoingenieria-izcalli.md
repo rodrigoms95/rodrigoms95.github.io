@@ -32,4 +32,4 @@ También existe cierta controversia sobre la pertinencia de conducir investigaci
 Hasta el momento la mejor estrategia para combatir el cambio climático es una rápida descarbonización de la economía, transitando a energías renovables, electromovilidad y sistemas alimentarios más sostenibles. Sin embargo, no debemos negarnos la posibilidad de saber que existen otras herramientas a nuestra disposición, como la geoingeniería, y poder estudiar los riesgos a los que nos enfrentamos en caso de vernos obligados a tomar tales medidas.
 
 
-Artículo públicado originalmente en el [Periódico de Izcalli](https://periodicodeizcalli.com/2025/05/07/columna-la-geoingenieria-puede-resolver-el-cambio-climatico/)
+*Artículo públicado originalmente en el [Periódico de Izcalli](https://periodicodeizcalli.com/2025/05/07/columna-la-geoingenieria-puede-resolver-el-cambio-climatico/)*

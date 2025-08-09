@@ -37,4 +37,4 @@ La contundencia de este cambio debería ser un llamado de alerta para todos los 
 </p>
 
 
-Artículo públicado originalmente en el [Periódico de Izcalli](https://periodicodeizcalli.com/2025/04/08/columna-lluvias-extremas-y-cambio-climatico-en-cuautitlan-izcalli/)
+*Artículo públicado originalmente en el [Periódico de Izcalli](https://periodicodeizcalli.com/2025/04/08/columna-lluvias-extremas-y-cambio-climatico-en-cuautitlan-izcalli/)*
