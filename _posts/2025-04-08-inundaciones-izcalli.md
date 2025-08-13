@@ -8,16 +8,16 @@ tags:
   - precipitación
 excerpt_separator: <!--more-->
 header:
-  header: /assets/images/blog/2025_04_08-inundaciones_izcalli/Imagen_1.png
-  teaser: /assets/images/blog/2025_04_08-inundaciones_izcalli/Imagen_1.png
-  og_image: /assets/images/blog/2025_04_08-inundaciones_izcalli/Imagen_1.png
+  header: /assets/images/blog/2025-04-08-inundaciones-izcalli/Imagen_1.png
+  teaser: /assets/images/blog/2025-04-08-inundaciones-izcalli/Imagen_1.png
+  og_image: /assets/images/blog/2025-04-08-inundaciones-izcalli/Imagen_1.png
 classes: wide
 date:               2025-04-08
 last_modified_at:   2025-08-08
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigoms95/rodrigoms95.github.io/master/assets/images/blog/2025_04_08-inundaciones_izcalli/Imagen_1.png" alt="Auto a medio sumergir en una calle inundada" style='height: 150%; width: 150%; object-fit: contain'/>
+  <img src="https://raw.githubusercontent.com/rodrigoms95/rodrigoms95.github.io/master/assets/images/blog/2025-04-08-inundaciones-izcalli/Imagen_1.png" alt="Auto a medio sumergir en una calle inundada" style='height: 150%; width: 150%; object-fit: contain'/>
   <br>
   Foto: ADN 40.
 </p>
@@ -35,7 +35,7 @@ Para dar un ejemplo, pensemos en Cuautitlán Izcalli. Es común que existan inun
 La contundencia de este cambio debería ser un llamado de alerta para todos los municipios ante la necesidad de los impactos que tendrá el cambio climático en su infraestructura y como diseñar sistemas de alcantarillado y otras obras que estén preparadas para las condiciones hidrológicas de los años futuros en que van a operar y no del presente.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigoms95/rodrigoms95.github.io/master/assets/images/blog/2025_04_08-inundaciones_izcalli/Imagen_2.jpg" alt="Unas personas intentan desplazar a través de una calle inundada, en el fondo hay un camión de transporte público" style='height: 150%; width: 150%; object-fit: contain'/>
+  <img src="https://raw.githubusercontent.com/rodrigoms95/rodrigoms95.github.io/master/assets/images/blog/2025-04-08-inundaciones-izcalli/Imagen_2.jpg" alt="Unas personas intentan desplazar a través de una calle inundada, en el fondo hay un camión de transporte público" style='height: 150%; width: 150%; object-fit: contain'/>
   <br>
   Foto: Tribuna.
 </p>
