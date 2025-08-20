@@ -11,8 +11,8 @@ header:
   teaser: /assets/images/blog/2025-08-20-ecologiaprofunda-izcalli/Imagen_1.jpg
   og_image: /assets/images/blog/2025-08-20-ecologiaprofunda-izcalli/Imagen_1.jpg
 classes: wide
-date:               2025-07-28
-last_modified_at:   2025-07-28
+date:               2025-08-20
+last_modified_at:   2025-08-20
 ---
 
 <p align="center">
