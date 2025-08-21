@@ -3,7 +3,7 @@ main:
   - title: "Home"
     url: /
   - title: "Blog"
-    url: /blog_fechas/
+    url: /blog/
   - title: "Académico"
     url: /academico/
   - title: "Experiencia Profesional"
