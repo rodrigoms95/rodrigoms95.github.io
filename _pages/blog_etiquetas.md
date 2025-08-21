@@ -5,7 +5,7 @@ layout: tags
 author_profile: true
 ---
 
-[Ordenar artículos por categoría](../blog)
+[Ordenar artículos por categoría](../blog_categorias)
 
-[Ordenar artículos por fecha](../blog_fechas)
+[Ordenar artículos por fecha](../blog)
 

@@ -1,11 +1,11 @@
 ---
 title: "Blog"
-permalink: /blog/
+permalink: /blog_categorias/
 layout: categories
 author_profile: true
 ---
 
-[Ordenar artículos por fecha](../blog_fechas)
+[Ordenar artículos por fecha](../blog)
 
 [Ordenar artículos por etiqueta](../blog_etiquetas)
 
