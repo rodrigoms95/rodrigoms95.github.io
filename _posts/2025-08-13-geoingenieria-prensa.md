@@ -6,7 +6,7 @@ tags:
   - cambio climático
   - geoingeniería
   - comunicados de prensa
-excerpt: "Un equipo de investigadores de la Universidad Nacional Autónoma de México ha desarrollado una herramienta para poder modelar los impactos que tendrían las intervenciones de geoingeniería en México y otros países del Sur Global."
+excerpt: "Investigadores de la UNAM han desarrollado una herramienta para modelar los impactos de la geoingeniería en México."
 header:
   header: /assets/images/blog/2025-08-13-geoingenieria-prensa/Imagen_1.png
   teaser: /assets/images/blog/2025-08-13-geoingenieria-prensa/Imagen_1.png

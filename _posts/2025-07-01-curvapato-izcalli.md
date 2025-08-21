@@ -7,7 +7,7 @@ tags:
   - energía
   - electricidad
   - energía fotovoltaica
-excerpt: "A nivel mundial, tres cuartas partes de las emisiones de gases de efecto invernadero que ocasionan el cambio climático se deben al uso de energía."
+excerpt: "Un problema fundamental de la energía solar es que es variable."
 header:
   header: /assets/images/blog/2025-07-01-curvapato-izcalli/Imagen_1.png
   teaser: /assets/images/blog/2025-07-01-curvapato-izcalli/Imagen_1.png

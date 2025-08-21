@@ -5,7 +5,7 @@ categories:
 tags:
   - contenido
   - bienvenida
-excerpt: "Este el primer post de mi blog personal. La principal temática será académica. Aquí publicaré avances de mi investigación y de la que realicen mis alumnos."
+excerpt: "Este el primer post de mi blog personal. La principal temática será académica."
 classes: wide
 date:               2021-08-06
 last_modified_at:   2021-08-06

@@ -6,7 +6,7 @@ tags:
   - cambio climático
   - eventos extremos
   - precipitación
-excerpt: "Todos estamos familiarizados con la idea de que el cambio climático implica un aumento en la temperatura y, por consiguiente, olas de calor más intensas en verano."
+excerpt: "Una atmósfera más caliente puede almacenar más vapor de agua y por tanto se espera que la precipitación a nivel global aumente."
 header:
   header: /assets/images/blog/2025-04-08-inundaciones-izcalli/Imagen_1.png
   teaser: /assets/images/blog/2025-04-08-inundaciones-izcalli/Imagen_1.png

@@ -5,7 +5,7 @@ categories:
 tags:
   - cambio climático
   - geoingeniería
-excerpt: "El cambio climático es resultado de las actividades que soportan nuestra economía, como la generación de energía, la industria agropecuaria, metalúrgicas, cementeras y más."
+excerpt: "La geoingeniería engloba propuestas de intervención internacional a gran escala para contrarrestar el cambio climático."
 header:
   header: /assets/images/blog/2025-05-07-geoingenieria-izcalli/Imagen_1.png
   teaser: /assets/images/blog/2025-05-07-geoingenieria-izcalli/Imagen_1.png
