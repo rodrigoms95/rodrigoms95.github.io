@@ -16,4 +16,5 @@ Bienvenido a mi página web. Aquí podrás encontrar información acerca de mi t
 - [Linkedin](https://www.linkedin.com/in/rodrigo-mu%C3%B1oz-s%C3%A1nchez-43975798&)
 - [Github](https://github.com/rodrigoms95)
 - [Email](mailto:rodrigoms95@gmail.com)
-- [Instagram](https://www.instagram.com)
+- [Instagram](https://instagram.com/rodrigoms95)
+- [Bluesky](https://bsky.app/profile/rodrigo-munoz.bsky.social)
