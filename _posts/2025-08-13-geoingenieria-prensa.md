@@ -6,7 +6,7 @@ tags:
   - cambio climático
   - geoingeniería
   - comunicados de prensa
-excerpt_separator: <!--more-->
+excerpt: "Un equipo de investigadores de la Universidad Nacional Autónoma de México ha desarrollado una herramienta para poder modelar los impactos que tendrían las intervenciones de geoingeniería en México y otros países del Sur Global."
 header:
   header: /assets/images/blog/2025-08-13-geoingenieria-prensa/Imagen_1.png
   teaser: /assets/images/blog/2025-08-13-geoingenieria-prensa/Imagen_1.png
@@ -22,7 +22,7 @@ last_modified_at:   2025-08-13
   Imagen: ChatGPT
 </p>
 
-Un equipo de investigadores del Instituto de Ciencias de la Atmósfera y Cambio Climático de la Universidad Nacional Autónoma de México (UNAM), apoyado con financiamiento de la organización “Degrees Modelling Fund”, ha desarrollado una herramienta para poder modelar los impactos que tendrían las intervenciones de geoingeniería en México y otros países del Sur Global.<!--more-->
+Un equipo de investigadores del Instituto de Ciencias de la Atmósfera y Cambio Climático de la Universidad Nacional Autónoma de México (UNAM), apoyado con financiamiento de la organización “Degrees Modelling Fund”, ha desarrollado una herramienta para poder modelar los impactos que tendrían las intervenciones de geoingeniería en México y otros países del Sur Global.
 
 La geoingeniería consiste en medidas para reducir la temperatura global producto de la quema de combustibles fósiles, por ejemplo, mediante la liberación de partículas en la atmósfera que reflejen la radiación solar.
 

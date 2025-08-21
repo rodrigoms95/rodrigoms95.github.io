@@ -5,7 +5,7 @@ categories:
 tags:
   - cambio climático
   - filosofía ambiental
-excerpt_separator: <!--more-->
+excerpt: "¿Qué tienen en común el cocinar una rana en una olla, jalarle a la taza del baño y girar la llave para prender nuestro auto?"
 header:
   header: /assets/images/blog/2025-07-28-climaretorcido-izcalli/Imagen_1.jpg
   teaser: /assets/images/blog/2025-07-28-climaretorcido-izcalli/Imagen_1.jpg
@@ -23,7 +23,7 @@ last_modified_at:   2025-07-28
   “La brecha metabólica”, de Evelin Kolijn
 </p>
 
-¿Qué tienen en común el cocinar una rana en una olla, jalarle a la taza del baño y girar la llave para prender nuestro auto? <!--more-->Pensemos primero en lo último: un acto cotidiano que forma parte de la rutina de muchos mexicanos que por falta de opciones, seguridad o estatus manejan a sus trabajos todos los días, y para quienes viajan en transporte también hay un chofer que realiza ese movimiento. Un acto que realizamos sin pensar, solo esperando librar el tráfico ese día, y mucho menos tenemos la intención de destruir arrecifes de coral cuando lo hacemos. Y sin embargo eso es exactamente lo que sucede cuando esa acción se repite mil millones de veces al día. Timothy Morton nos invita a reflexionar: una persona manejando es inofensiva, pero la humanidad manejando está arrasando con el planeta, y sin embargo nosotros como individuos somos parte de esa humanidad.
+¿Qué tienen en común el cocinar una rana en una olla, jalarle a la taza del baño y girar la llave para prender nuestro auto? Pensemos primero en lo último: un acto cotidiano que forma parte de la rutina de muchos mexicanos que por falta de opciones, seguridad o estatus manejan a sus trabajos todos los días, y para quienes viajan en transporte también hay un chofer que realiza ese movimiento. Un acto que realizamos sin pensar, solo esperando librar el tráfico ese día, y mucho menos tenemos la intención de destruir arrecifes de coral cuando lo hacemos. Y sin embargo eso es exactamente lo que sucede cuando esa acción se repite mil millones de veces al día. Timothy Morton nos invita a reflexionar: una persona manejando es inofensiva, pero la humanidad manejando está arrasando con el planeta, y sin embargo nosotros como individuos somos parte de esa humanidad.
 
 Algo similar sucede con la taza de baño en la forma del quebranto de un ciclo ancestral. En la naturaleza no hay basura porque los desechos o el cadáver de un animal es el alimento de otro. Nosotros, en cambio, extraemos nutrientes del suelo rural y en vez de regresarlo desde las ciudades, jalamos la taza del baño y observamos mientras desaparece el problema de nuestra mente. Karl Marx bautizó a este comportamiento anti animal de los humanos modernos como la brecha metabólica. Otro problema del que somos partícipes reacios; ninguno de nosotros decidimos manejar nuestras excreciones así, simplemente nacimos y las tazas de baño ya estaban ahí.
 

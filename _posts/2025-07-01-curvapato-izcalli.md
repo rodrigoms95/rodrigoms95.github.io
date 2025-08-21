@@ -7,7 +7,7 @@ tags:
   - energía
   - electricidad
   - energía fotovoltaica
-excerpt_separator: <!--more-->
+excerpt: "A nivel mundial, tres cuartas partes de las emisiones de gases de efecto invernadero que ocasionan el cambio climático se deben al uso de energía."
 header:
   header: /assets/images/blog/2025-07-01-curvapato-izcalli/Imagen_1.png
   teaser: /assets/images/blog/2025-07-01-curvapato-izcalli/Imagen_1.png
@@ -25,7 +25,7 @@ last_modified_at:   2025-07-01
   Fuente: PV Magazine
 </p>
 
-A nivel mundial, tres cuartas partes de las emisiones de gases de efecto invernadero que ocasionan el cambio climático se deben al uso de energía.  <!--more-->Entonces, la principal herramienta que tenemos para combatir al cambio climático es la transición energética; es decir, dejar de usar combustibles fósiles, como el petróleo, y empezar a usar casi toda nuestra energía a partir de energías renovables, como la eólica o la solar.
+A nivel mundial, tres cuartas partes de las emisiones de gases de efecto invernadero que ocasionan el cambio climático se deben al uso de energía. Entonces, la principal herramienta que tenemos para combatir al cambio climático es la transición energética; es decir, dejar de usar combustibles fósiles, como el petróleo, y empezar a usar casi toda nuestra energía a partir de energías renovables, como la eólica o la solar.
 
 Sin embargo, un problema fundamental de la energía solar es que es variable, lo que significa que no tenemos acceso a la energía cuando la necesitamos, si no que solo la podemos utilizar cuando está disponible. Como es evidente, la energía solar solo está disponible durante el día, y tiene su pico de generación cuando el sol está en su punto más alto en el firmamento alrededor del mediodía. Por otro lado, la demanda, o el uso de la energía suele ser mínimo durante la madrugada y tener un valor máximo en el atardecer.
 

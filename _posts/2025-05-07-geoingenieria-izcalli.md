@@ -5,7 +5,7 @@ categories:
 tags:
   - cambio climático
   - geoingeniería
-excerpt_separator: <!--more-->
+excerpt: "El cambio climático es resultado de las actividades que soportan nuestra economía, como la generación de energía, la industria agropecuaria, metalúrgicas, cementeras y más."
 header:
   header: /assets/images/blog/2025-05-07-geoingenieria-izcalli/Imagen_1.png
   teaser: /assets/images/blog/2025-05-07-geoingenieria-izcalli/Imagen_1.png
@@ -23,7 +23,7 @@ last_modified_at:   2025-05-07
   Fuente: gwagner.com/wsj-sg/
 </p>
 
-El cambio climático es resultado de las actividades que soportan nuestra economía, como la generación de energía, la industria agropecuaria, metalúrgicas, cementeras y más. <!--more-->Es importante reconocer que el desarrollo industrial de nuestro país ha permitido una mejora radical en nuestro nivel de vida en el siglo pasado. Por ejemplo, Cuautitlán Izcalli es el municipio número 40 de 2,479 en actividad económica, de la cuál solo el 3% es agropecuario, por lo que el municipio es predominantemente industrial y es un pilar importante en la economía nacional.
+El cambio climático es resultado de las actividades que soportan nuestra economía, como la generación de energía, la industria agropecuaria, metalúrgicas, cementeras y más. Es importante reconocer que el desarrollo industrial de nuestro país ha permitido una mejora radical en nuestro nivel de vida en el siglo pasado. Por ejemplo, Cuautitlán Izcalli es el municipio número 40 de 2,479 en actividad económica, de la cuál solo el 3% es agropecuario, por lo que el municipio es predominantemente industrial y es un pilar importante en la economía nacional.
 
 Sin embargo, el estancamiento del nivel de vida en las últimas décadas y el reciente incremento de fenómenos meteorológicos extremos, como el huracán Otis, nos están demostrando que la dependencia actual en los combustibles fósiles es insostenible y que la transición a una economía sostenible sucede a un ritmo demasiado lento. La temperatura media en Izcalli ha aumentado 1.5°C debido a la actividad humana, más que el promedio global de 1.3°C, y para 2100 podría incrementar 3.1°C si no aumentamos nuestra ambición para combatir el cambio climático.
 

@@ -6,7 +6,7 @@ tags:
   - cambio climático
   - energía
   - electricidad
-excerpt_separator: <!--more-->
+excerpt: "Los impactos del cambio climático en la economía de nuestros hogares serán considerables."
 header:
   header: /assets/images/blog/2025-06-03-reciboluz-izcalli/Imagen_1.jpg
   teaser: /assets/images/blog/2025-06-03-reciboluz-izcalli/Imagen_1.jpg
@@ -25,7 +25,7 @@ last_modified_at:   2025-06-03
 </p>
 
 
-Los impactos del cambio climático en la economía de nuestros hogares serán considerables. <!--more-->El aumento de temperatura hará que consumamos más electricidad, y en las olas de calor más intensas será más difícil para la red eléctrica el satisfacer la demanda, efecto que ya empezamos a ver hoy día en la Península de Yucatán con sus continuos apagones.
+Los impactos del cambio climático en la economía de nuestros hogares serán considerables. El aumento de temperatura hará que consumamos más electricidad, y en las olas de calor más intensas será más difícil para la red eléctrica el satisfacer la demanda, efecto que ya empezamos a ver hoy día en la Península de Yucatán con sus continuos apagones.
 
 Para entender el origen de este problema, hay que considerar que la familia promedio en México utiliza 30% de la energía eléctrica para hacer más confortable su casa cuando hace calor, ya sea con ventiladores o con aires acondicionados. Sin embargo, hay una importante variación a lo largo del país: **en el centro apenas se utiliza el 3% para enfriamiento, en el sur se utiliza el 30% y en el norte llega a representar hasta el 53% del recibo de CFE de los hogares**.
 

@@ -5,7 +5,7 @@ categories:
 tags:
   - cambio climático
   - filosofía ambiental
-excerpt_separator: <!--more-->
+excerpt: "A lo largo de milenios, los seres humanos nos hemos cuestionado cuál es nuestra relación con el entorno que nos rodea. "
 header:
   header: /assets/images/blog/2025-08-20-ecologiaprofunda-izcalli/Imagen_1.jpg
   teaser: /assets/images/blog/2025-08-20-ecologiaprofunda-izcalli/Imagen_1.jpg
@@ -23,7 +23,7 @@ last_modified_at:   2025-08-20
   Fotograma de “Nausicaa del Valle del Viento”, Estudio Ghibli, 1984
 </p>
 
-A lo largo de milenios, los seres humanos nos hemos cuestionado cuál es nuestra relación con el entorno que nos rodea. <!--more-->La visión occidental establece que los humanos somos el pináculo de la evolución, y por esto la naturaleza está a nuestro servicio para ser explotada. Sobra decir que esto nos ha llevado a la crisis planetaria que vivimos actualmente.
+A lo largo de milenios, los seres humanos nos hemos cuestionado cuál es nuestra relación con el entorno que nos rodea. La visión occidental establece que los humanos somos el pináculo de la evolución, y por esto la naturaleza está a nuestro servicio para ser explotada. Sobra decir que esto nos ha llevado a la crisis planetaria que vivimos actualmente.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/rodrigoms95/rodrigoms95.github.io/master/assets/images/blog/2025-08-20-ecologiaprofunda-izcalli/Imagen_2.png" alt="Mural de un hombre controlando el átomo y la ciencia y tecnología" style='height: 150%; width: 150%; object-fit: contain'/>
