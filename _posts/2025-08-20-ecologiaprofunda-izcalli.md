@@ -12,7 +12,7 @@ header:
   og_image: /assets/images/blog/2025-08-20-ecologiaprofunda-izcalli/Imagen_1.jpg
 classes: wide
 date:               2025-08-20
-last_modified_at:   2025-08-20
+last_modified_at:   2025-08-22
 ---
 
 <p align="center">
@@ -33,7 +33,7 @@ A lo largo de milenios, los seres humanos nos hemos cuestionado cuál es nuestra
   “El hombre controlador del universo”, Diego Rivera, 1934.
 </p>
 
-Por otro lado, hay matices en las formas en que podemos nos preocupar o identificar con el resto de las formas de vida en nuestro planeta. Para muchos, la humanidad ha adquirido una deuda al extraer despiadadamente recursos, y es entonces que los humanos deben pasar de ser explotadores a cuidadores de la naturaleza. En el siglo XIX, pensadores como John Muir establecieron las bases del ambientalismo y los parques nacionales. Casi siglo y medio después, la ONU ha reconocido que todo el bienestar de la humanidad depende de los beneficios que obtenemos de la naturaleza, algo que conocemos como servicios ecosistémicos. En esta visión del mundo, reconocemos que el si queremos ser prósperos, entonces es fundamental cuidar la naturaleza.
+Por otro lado, hay matices en las formas en que nos podemos preocupar o identificar con el resto de las formas de vida en nuestro planeta. Para muchos, la humanidad ha adquirido una deuda al extraer despiadadamente recursos, y es entonces que los humanos deben pasar de ser explotadores a cuidadores de la naturaleza. En el siglo XIX, pensadores como John Muir establecieron las bases del ambientalismo y los parques nacionales. Casi siglo y medio después, la ONU ha reconocido que todo el bienestar de la humanidad depende de los beneficios que obtenemos de la naturaleza, algo que conocemos como servicios ecosistémicos. En esta visión del mundo, reconocemos que el si queremos ser prósperos, entonces es fundamental cuidar la naturaleza.
 
 No obstante, hay cada vez un mayor grupo de personas que reconoce que esta visión ecológica es paternalista e insuficiente, y que podemos ir mucho más allá. Los bosques y montañas que John Muir quería proteger no estaban vacíos como él los consideraba, eran territorios cohabitados por comunidades indígenas. Por ejemplo, en México ya no creamos Parques Nacionales como museos de curiosidades, sino Reservas de la Biósfera para gestionar el patrimonio biológico y cultural. George Caitlin, contemporáneo de Muir, reconocía esto, pues quería crear un “parque conteniendo hombre y bestia en toda su belleza natural salvaje y fresca”. Caitlin, si bien tenía un profundo arraigo colonialista, entendía que la frontera entre lo natural y lo humano es mucho más difusa de lo que podemos creer a simple vista.
 
