@@ -5,7 +5,7 @@ categories:
 tags:
   - cambio climático
   - filosofía ambiental
-excerpt: "A lo largo de milenios, los seres humanos nos hemos cuestionado cuál es nuestra relación con el entorno que nos rodea. "
+excerpt: "A lo largo de milenios, los seres humanos nos hemos cuestionado cuál es nuestra relación con el entorno que nos rodea."
 header:
   header: /assets/images/blog/2025-08-20-ecologiaprofunda-izcalli/Imagen_1.jpg
   teaser: /assets/images/blog/2025-08-20-ecologiaprofunda-izcalli/Imagen_1.jpg
@@ -58,4 +58,4 @@ Hasta este momento hemos caminado en las aguas poco profundas del ambientalismo,
 Arne Naess nos propone que al igual que cualquier otro ser vivo, los humanos no tenemos derecho a reducir esta riqueza salvo para satisfacer nuestras necesidades básicas, y que nuestra interferencia actual en los ciclos de Gaia es excesiva. En este punto reconocemos nuestra capacidad como destructores del entorno, pero no nuestra responsabilidad paternalista de proteger. Por el contrario, nuestra responsabilidad es transformar radicalmente nuestros medios de vida para coexistir como un eslabón más en la profunda red de la vida en la Tierra.
 
 
-*Artículo públicado originalmente en el Periódico de Izcalli*
+*Artículo públicado originalmente en el [Periódico de Izcalli](https://periodicodeizcalli.com/2025/08/21/columna-pasar-del-chapoteadero-a-la-fosa-de-clavados-la-ecologia-profunda/)*
