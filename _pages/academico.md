@@ -26,7 +26,7 @@ Para descargar mi CV en formato pdf haz clic [aquí](../assets/pdf/CV_Rodrigo_Mu
 
 # Libros
 
-* Apuntes de Energías Renovables. Coautores: García L., Cruz G. Tovar M., et al. [(web)][http://www.ptolomeo.unam.mx:8080/xmlui/bitstream/handle/RepoFi/20241/Energias-renovables%282025%29.pdf] [(pdf)](../assets/pdf/Apuntes_de_Energias_Renovables.pdf)
+* Apuntes de Energías Renovables. Coautores: García L., Cruz G. Tovar M., et al. [(web)](http://www.ptolomeo.unam.mx:8080/xmlui/bitstream/handle/RepoFi/20241/Energias-renovables%282025%29.pdf) [(pdf)](../assets/pdf/Apuntes_de_Energias_Renovables.pdf)
 
 
 # Capítulos de libro
