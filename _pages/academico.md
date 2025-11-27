@@ -94,4 +94,12 @@ Para descargar mi CV en formato pdf haz clic [aquí](../assets/pdf/CV_Rodrigo_Mu
 
 # Participación en congresos
 
+* Calderón O., Estrada F., Altamirano. M, Bastien B., **Muñoz-Sanchez R.** (2025). Assessment of the Impacts and Risks of Climate Change A Probabilistic
+Climate Model Emulator with Solar Radiation Modification (AIRCC-Clim-
+SRM). Simposio Internacional "Clima y Resiliencia: el
+futuro se hace presente". [Póster](https://doi.org/10.13140/RG.2.2.24730.50889)
+* Calderón O., Estrada F., Altamirano. M, Bastien B., **Muñoz-Sanchez R.** (2025). Beneficios de la mitigación de la isla de calor urbana en una megalópolis
+en expansión. Congreso Argentino de meteorología 2025. [Artículo](https://cenamet.org.ar/congremet/wp-content/uploads/2025/11/A2_T251.pdf)
+* Calderón M., **Muñoz-Sanchez R.** (2024). Valor económico del secuestro de carbono en manglares del Parque Nacional Arrecies de Cozumel. 3° Congreso Internacional
+para el Manejo de la Contaminación Ambiental. [Abstract](https://doi.org/10.20937/RICA.CIMCA2024)
 * **Muñoz-Sanchez, R.**, Ordoñez, P., Gallego, D., & Ochoa-Moya, C. A. (2023). An Objective Index for Monsoon Onset and Withdrawal Dates Over the Mexico Valley Basin. 103rd Annual AMS Meeting 2023. [Abstract](https://ams.confex.com/ams/103ANNUAL/meetingapp.cgi/Paper/419268)
